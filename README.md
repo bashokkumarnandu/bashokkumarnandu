@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 🔭 I’m currently working in DXC Technology as Associate Professional Software Engineer
+- 🌱 I’m currently learning Datastructures & Algorithms
+- 📫 How to reach me: bashokkumar.dev@gmail.com
 
 <!--
 **bashokkumarnandu/bashokkumarnandu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

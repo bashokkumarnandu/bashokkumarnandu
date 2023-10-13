@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working in DXC Technology as Associate Professional Software Engineer
+- 🔭 I’m currently working in DXC Technology as Analyst II Software Engineer
 - 🌱 I’m currently learning Datastructures & Algorithms
 - 📫 How to reach me: bashokkumar.dev@gmail.com
 
